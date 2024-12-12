@@ -4,27 +4,38 @@ I'm **Firas Sakli**, a computer scientist passionate about **web development** a
 
 ---
 
-## 🌟 What I’m Up To  
-- 🔨 Building scalable **web applications** and tackling **data engineering challenges**.  
-- 🌱 Learning **German** and advancing my expertise in **big data tools**.  
-
----
-
-## 🤝 Let’s Collaborate!  
-- 🖥️ **Web projects** with a creative twist.  
-- 📊 **Data-driven applications** and real-time systems.  
-
----
-
-## 💡 Ask Me About  
-- 🌐 Web development tips and tricks.  
-- ⚙️ Data engineering workflows and tools.  
-- 🌍 My journey as an international student.  
-
----
-
-## 🎉 Fun Tidbit  
-I love jogging, exploring cities, and experimenting in the kitchen—it’s like coding, but tastier! 🍳  
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌟 What I’m Up To</h3>
+      <ul>
+        <li>🔨 Building scalable <b>web applications</b> and tackling <b>data engineering challenges</b>.</li>
+        <li>🌱 Learning <b>German</b> and advancing my expertise in <b>big data tools</b>.</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤝 Let’s Collaborate!</h3>
+      <ul>
+        <li>🖥️ Creative <b>web projects</b>.</li>
+        <li>📊 <b>Data-driven applications</b> and real-time systems.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💡 Ask Me About</h3>
+      <ul>
+        <li>🌐 <b>Web development</b> tips and tricks.</li>
+        <li>⚙️ <b>Data engineering</b> workflows and tools.</li>
+        <li>🌍 My journey as an international student.</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎉 Fun Tidbit</h3>
+      <p>I love jogging, exploring cities, and experimenting in the kitchen—it’s like coding, but tastier! 🍳</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
