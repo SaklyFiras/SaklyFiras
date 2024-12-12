@@ -2,7 +2,7 @@
 
 
  <div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ttdjBwa2hkNWFvbnptcWJiNmhrYzg3YzFseTRrdWgwMmp4a2JldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yane5pjJwdEMAr8V0Q/giphy.gif)"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ttdjBwa2hkNWFvbnptcWJiNmhrYzg3YzFseTRrdWgwMmp4a2JldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yane5pjJwdEMAr8V0Q/giphy.gif"  />
 </div>
  <p>I'm <b>Firas Sakli</b>, a computer scientist passionate about <b>web development</b> and <b>data engineering</b>. Currently prepping for my Master's in Data Science, I'm always curious and eager to learn new skills. 🚀</p>
 
