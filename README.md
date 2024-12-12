@@ -1,7 +1,7 @@
-# 👋 Hey there!
 
 
  <div align="center">
+# 👋 Hey there!
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ttdjBwa2hkNWFvbnptcWJiNmhrYzg3YzFseTRrdWgwMmp4a2JldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yane5pjJwdEMAr8V0Q/giphy.gif"  />
 </div>
  <p>I'm <b>Firas Sakli</b>, a computer scientist passionate about <b>web development</b> and <b>data engineering</b>. Currently prepping for my Master's in Data Science, I'm always curious and eager to learn new skills. 🚀</p>
