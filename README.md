@@ -1,50 +1,35 @@
-# 👋 About Me
+# 👋 Hey there!  
 
-Hi there! I'm **Firas Sakli**, a passionate computer scientist with a focus on **web development** and **data engineering**. I'm currently preparing for my Master's in Software Engineering and Data Science and continuously working to expand my skills.
-
----
-
-## 💻 I'm currently working on  
-- Building scalable and efficient solutions in **web development** and **data engineering**.  
-- Exploring tools and frameworks to enhance my workflow.  
+I'm **Firas Sakli**, a computer scientist passionate about **web development** and **data engineering**. Currently prepping for my Master's in Software Engineering and Data Science, I'm always curious and eager to learn new skills. 🚀  
 
 ---
 
-## 🤝 I'm looking to collaborate on  
-- Exciting **web development** projects.  
-- Innovative **data-driven applications** and real-time systems.  
+## 🌟 What I’m Up To  
+- 🔨 Building scalable **web applications** and tackling **data engineering challenges**.  
+- 🌱 Learning **German** and advancing my expertise in **big data tools**.  
 
 ---
 
-## 🛠️ I'm looking for help with  
-- Enhancing my expertise in **big data tools** and exploring modern development practices.  
+## 🤝 Let’s Collaborate!  
+- 🖥️ **Web projects** with a creative twist.  
+- 📊 **Data-driven applications** and real-time systems.  
 
 ---
 
-## 📚 I'm currently learning  
-- Advanced concepts in **data engineering** to tackle real-world challenges.  
-- **German** to integrate into my new academic and cultural environment.  
+## 💡 Ask Me About  
+- 🌐 Web development tips and tricks.  
+- ⚙️ Data engineering workflows and tools.  
+- 🌍 My journey as an international student.  
 
 ---
 
-## 💡 Ask me about  
-- **Web development** and creating user-friendly applications.  
-- **Data engineering** workflows and tools.  
-- My experience transitioning to international studies.  
+## 🎉 Fun Tidbit  
+I love jogging, exploring cities, and experimenting in the kitchen—it’s like coding, but tastier! 🍳  
 
 ---
 
-## 🎉 Fun fact  
-I enjoy jogging, exploring new cities, and experimenting with cooking—it’s my way of blending creativity and relaxation!
-
----
-
-📫 **Get in touch:**  
-- **Email:** [firassakli82@gmail.com](mailto:firassakli82@gmail.com)
-
----
-
-Thanks for stopping by! Let's connect and create something amazing together. 🌟
+📫 **Reach Me:** [firassakli82@gmail.com](mailto:firassakli82@gmail.com)  
+Let’s create something awesome together! 🚀
 
 
 ## 🌐 Socials:
