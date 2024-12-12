@@ -1,30 +1,30 @@
-# 👋 Hey there!
+# 👋 Hey there!  
 
-
-
- <p>I'm <b>Firas Sakli</b>, a computer scientist passionate about <b>web development</b> and <b>data engineering</b>. Currently prepping for my Master's in Data Science, I'm always curious and eager to learn new skills. 🚀</p>
-
-
-  
-
+I'm **Firas Sakli**, a computer scientist passionate about **web development** and **data engineering**. Currently prepping for my Master's in Software Engineering and Data Science, I'm always curious and eager to learn new skills. 🚀  
 
 ---
 
+## 🌟 What I’m Up To  
+- 🔨 Building scalable **web applications** and tackling **data engineering challenges**.  
+- 🌱 Learning **German** and advancing my expertise in **big data tools**.  
 
-   <h3>🌟 What I’m Up To</h3>
-   <p>Building scalable <b>web applications</b> and tackling <b>data engineering challenges</b>. Learning <b>German</b> and advancing my expertise in <b>big data tools</b>.</p>
-  
-   
-   <h3>🤝 Let’s Collaborate!</h3>
-  <p>Creative <b>web projects</b> and innovative <b>data-driven applications</b> or real-time systems.</p>
-  
 
-  <h3>💡 Ask Me About</h3>
-  <p><b>Web development</b> tips and tricks, <b>data engineering</b> workflows and tools, or my journey as an international student.</p>
-   
-   <h3>🎉 Fun Tidbit</h3>
-  <p>I love jogging, exploring cities, and experimenting in the kitchen—it’s like coding, but tastier! 🍳</p> 
 
+## 🤝 Let’s Collaborate!  
+- 🖥️ **Web projects** with a creative twist.  
+- 📊 **Data-driven applications** and real-time systems.  
+
+
+
+## 💡 Ask Me About  
+- 🌐 Web development tips and tricks.  
+- ⚙️ Data engineering workflows and tools.  
+- 🌍 My journey as an international student.  
+
+
+
+## 🎉 Fun Tidbit  
+I love jogging, exploring cities, and experimenting in the kitchen—it’s like coding, but tastier! 🍳  
 
 ---
 
