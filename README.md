@@ -6,7 +6,7 @@
       <p>I'm <b>Firas Sakli</b>, a computer scientist passionate about <b>web development</b> and <b>data engineering</b>. Currently prepping for my Master's in Software Engineering and Data Science, I'm always curious and eager to learn new skills. 🚀</p>
     </td>
     <td align="center" width="30%">
-      <img src="[https://media.giphy.com/media/3o7TKPDXj2vlWRj5iY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVtNmhkZ3l1ZjVnZGF3NzJzOGFzanZqcm5vbHVpdDdqeHFhY2hmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.gif)" alt="Coding GIF" width="150">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVtNmhkZ3l1ZjVnZGF3NzJzOGFzanZqcm5vbHVpdDdqeHFhY2hmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.gif" alt="Coding GIF" width="150">
     </td>
   </tr>
 </table>
