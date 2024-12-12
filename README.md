@@ -1,35 +1,35 @@
 # 👋 Hey there!
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td width="70%">
+    <td width="70%" style="vertical-align: top;">
       <p>I'm <b>Firas Sakli</b>, a computer scientist passionate about <b>web development</b> and <b>data engineering</b>. Currently prepping for my Master's in Software Engineering and Data Science, I'm always curious and eager to learn new skills. 🚀</p>
     </td>
-    <td align="center" width="30%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVtNmhkZ3l1ZjVnZGF3NzJzOGFzanZqcm5vbHVpdDdqeHFhY2hmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.gif" alt="Coding GIF" width="150">
+    <td width="30%" style="text-align: center; vertical-align: middle;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ttdjBwa2hkNWFvbnptcWJiNmhrYzg3YzFseTRrdWgwMmp4a2JldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yane5pjJwdEMAr8V0Q/giphy.gif" alt="Coding GIF" style="width: 100%; height: auto; border: none;">
     </td>
   </tr>
 </table>
 
+---
 
-
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" style="vertical-align: top;">
       <h3>🌟 What I’m Up To</h3>
       <p>Building scalable <b>web applications</b> and tackling <b>data engineering challenges</b>. Learning <b>German</b> and advancing my expertise in <b>big data tools</b>.</p>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" style="vertical-align: top;">
       <h3>🤝 Let’s Collaborate!</h3>
       <p>Creative <b>web projects</b> and innovative <b>data-driven applications</b> or real-time systems.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" style="vertical-align: top;">
       <h3>💡 Ask Me About</h3>
       <p><b>Web development</b> tips and tricks, <b>data engineering</b> workflows and tools, or my journey as an international student.</p>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" style="vertical-align: top;">
       <h3>🎉 Fun Tidbit</h3>
       <p>I love jogging, exploring cities, and experimenting in the kitchen—it’s like coding, but tastier! 🍳</p>
     </td>
@@ -41,10 +41,7 @@
 📫 **Reach Me:** [firassakli82@gmail.com](mailto:firassakli82@gmail.com)  
 Let’s create something awesome together! 🚀
 
----
 
-📫 **Reach Me:** [firassakli82@gmail.com](mailto:firassakli82@gmail.com)  
-Let’s create something awesome together! 🚀
 
 
 ## 🌐 Socials:
