@@ -1,6 +1,15 @@
-# 👋 Hey there!  
+# 👋 Hey there!
 
-I'm **Firas Sakli**, a computer scientist passionate about **web development** and **data engineering**. Currently prepping for my Master's in Software Engineering and Data Science, I'm always curious and eager to learn new skills. 🚀  
+<table>
+  <tr>
+    <td width="70%">
+      <p>I'm <b>Firas Sakli</b>, a computer scientist passionate about <b>web development</b> and <b>data engineering</b>. Currently prepping for my Master's in Software Engineering and Data Science, I'm always curious and eager to learn new skills. 🚀</p>
+    </td>
+    <td align="center" width="30%">
+      <img src="[https://media.giphy.com/media/3o7TKPDXj2vlWRj5iY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVtNmhkZ3l1ZjVnZGF3NzJzOGFzanZqcm5vbHVpdDdqeHFhY2hmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.gif)" alt="Coding GIF" width="150">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -8,27 +17,17 @@ I'm **Firas Sakli**, a computer scientist passionate about **web development** a
   <tr>
     <td align="center" width="50%">
       <h3>🌟 What I’m Up To</h3>
-      <ul>
-        <li>🔨 Building scalable <b>web applications</b> and tackling <b>data engineering challenges</b>.</li>
-        <li>🌱 Learning <b>German</b> and advancing my expertise in <b>big data tools</b>.</li>
-      </ul>
+      <p>Building scalable <b>web applications</b> and tackling <b>data engineering challenges</b>. Learning <b>German</b> and advancing my expertise in <b>big data tools</b>.</p>
     </td>
     <td align="center" width="50%">
       <h3>🤝 Let’s Collaborate!</h3>
-      <ul>
-        <li>🖥️ Creative <b>web projects</b>.</li>
-        <li>📊 <b>Data-driven applications</b> and real-time systems.</li>
-      </ul>
+      <p>Creative <b>web projects</b> and innovative <b>data-driven applications</b> or real-time systems.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>💡 Ask Me About</h3>
-      <ul>
-        <li>🌐 <b>Web development</b> tips and tricks.</li>
-        <li>⚙️ <b>Data engineering</b> workflows and tools.</li>
-        <li>🌍 My journey as an international student.</li>
-      </ul>
+      <p><b>Web development</b> tips and tricks, <b>data engineering</b> workflows and tools, or my journey as an international student.</p>
     </td>
     <td align="center" width="50%">
       <h3>🎉 Fun Tidbit</h3>
@@ -36,6 +35,11 @@ I'm **Firas Sakli**, a computer scientist passionate about **web development** a
     </td>
   </tr>
 </table>
+
+---
+
+📫 **Reach Me:** [firassakli82@gmail.com](mailto:firassakli82@gmail.com)  
+Let’s create something awesome together! 🚀
 
 ---
 
